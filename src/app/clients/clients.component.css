@@ -1,0 +1,1236 @@
+.casestudiescontent {
+  margin-top: 10%;
+}
+
+.card-mid {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.p-casestudies {
+  background-color: #f7fdff;
+  padding-top: 12%;
+  padding-bottom: 12%;
+}
+
+.casestudies_card {
+  background-color: #ffffff;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-top: 5%;
+}
+
+.content_btn {
+  border-radius: 8px !important;
+  font-size: 16px;
+  font-weight: 700;
+  width: 50%;
+  height: 48px;
+  color: #fafeff;
+  border-color: #06a1d8;
+  background-color: #06a1d8;
+  border: 2px solid #06a1d8;
+  border-radius: 28px;
+  font-family: Varela;
+  margin-top: 5%;
+}
+
+.clients {
+  background-color: #f7fdff;
+}
+
+.partners {
+  background-color: #06a1d8;
+}
+
+.partner_top {
+  padding-top: 5%;
+}
+
+.partner-card {
+  background-color: white;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  margin-bottom: 5%;
+}
+
+.logo-card {
+  background-color: white;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.col-mid {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.col-mid-l {
+  margin-left: 2%;
+}
+.col-mid-r {
+  margin-right: 2%;
+}
+
+/*logos*/
+
+@media (max-width: 320px) {
+  /*logos*/
+  .smart {
+    margin-top: 1%;
+  }
+
+  .pldt {
+    margin-top: 1%;
+  }
+
+  .singaporeair {
+    margin-top: -5%;
+  }
+
+  .feu {
+    margin-top: -3%;
+  }
+
+  .cathay {
+    margin-top: -3%;
+  }
+
+  .rustans {
+  }
+
+  .bpi {
+  }
+
+  .metrobank {
+  }
+
+  .eastwest {
+    margin-top: -3%;
+  }
+
+  .jazz {
+    width: 55px;
+    height: 45px;
+  }
+
+  .green {
+    width: 55px;
+    height: 45px;
+  }
+
+  .shore {
+    width: 55px;
+    height: 45px;
+  }
+
+  .makati {
+    width: 60px;
+    height: 60px;
+  }
+
+  .mandaluyong {
+    width: 60px;
+    height: 60px;
+  }
+
+  .napcor {
+    width: 60px;
+    height: 60px;
+  }
+
+  .poea {
+    margin-top: 10%;
+  }
+
+  .horizon {
+    margin-top: 15%;
+  }
+
+  .dole {
+    margin-top: 3%;
+    width: 55px;
+    height: 40px;
+  }
+
+  /* partners */
+  .intel {
+    margin-top: 8%;
+  }
+
+  .hp {
+    margin-top: 8%;
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (min-width: 321px) and (max-width: 376px) {
+  /*logos*/
+  .smart {
+    margin-top: 1%;
+  }
+
+  .pldt {
+    margin-top: 1%;
+  }
+
+  .singaporeair {
+    margin-top: -5%;
+  }
+
+  .feu {
+    margin-top: -3%;
+  }
+
+  .cathay {
+    margin-top: -3%;
+  }
+
+  .rustans {
+  }
+
+  .bpi {
+  }
+
+  .metrobank {
+  }
+
+  .eastwest {
+    margin-top: -3%;
+  }
+
+  .jazz {
+    width: 55px;
+    height: 45px;
+  }
+
+  .green {
+    width: 55px;
+    height: 45px;
+  }
+
+  .shore {
+    width: 55px;
+    height: 45px;
+  }
+
+  .makati {
+    width: 60px;
+    height: 60px;
+  }
+
+  .mandaluyong {
+    width: 60px;
+    height: 60px;
+  }
+
+  .napcor {
+    width: 60px;
+    height: 60px;
+  }
+
+  .poea {
+    margin-top: 10%;
+  }
+
+  .horizon {
+    margin-top: 15%;
+  }
+
+  .dole {
+    margin-top: 3%;
+    width: 55px;
+    height: 40px;
+  }
+
+  /* partners */
+  .intel {
+    margin-top: 8%;
+  }
+
+  .hp {
+    margin-top: 10%;
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (min-width: 377px) and (max-width: 424px) {
+  /*logos*/
+  .smart {
+    margin-top: 1%;
+  }
+
+  .pldt {
+    margin-top: 1%;
+  }
+
+  .singaporeair {
+    margin-top: -5%;
+  }
+
+  .feu {
+    margin-top: -3%;
+  }
+
+  .cathay {
+    margin-top: -3%;
+  }
+
+  .rustans {
+  }
+
+  .bpi {
+  }
+
+  .metrobank {
+  }
+
+  .eastwest {
+    margin-top: -3%;
+  }
+
+  .jazz {
+    width: 70px;
+    height: 55px;
+  }
+
+  .green {
+    width: 70px;
+    height: 55px;
+  }
+
+  .shore {
+    width: 70px;
+    height: 55px;
+  }
+
+  .makati {
+    width: 60px;
+    height: 60px;
+  }
+
+  .mandaluyong {
+    width: 60px;
+    height: 60px;
+  }
+
+  .napcor {
+    width: 60px;
+    height: 60px;
+  }
+
+  .poea {
+    margin-top: 10%;
+  }
+
+  .horizon {
+    margin-top: 15%;
+  }
+
+  .dole {
+    margin-top: 3%;
+    width: 55px;
+    height: 40px;
+  }
+
+  /* partners */
+  .intel {
+    margin-top: 8%;
+  }
+
+  .hp {
+    margin-top: 10%;
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (min-width: 425px) and (max-width: 575px) {
+  /*logos*/
+  .smart {
+    margin-top: 1%;
+  }
+
+  .pldt {
+    margin-top: 1%;
+  }
+
+  .singaporeair {
+    margin-top: -5%;
+  }
+
+  .feu {
+    margin-top: -3%;
+  }
+
+  .cathay {
+    margin-top: -3%;
+  }
+
+  .rustans {
+  }
+
+  .bpi {
+  }
+
+  .metrobank {
+  }
+
+  .eastwest {
+    margin-top: -3%;
+  }
+
+  .jazz {
+    width: 80px;
+    height: 60px;
+  }
+
+  .green {
+    width: 80px;
+    height: 60px;
+  }
+
+  .shore {
+    width: 80px;
+    height: 60px;
+  }
+
+  .makati {
+    width: 60px;
+    height: 60px;
+  }
+
+  .mandaluyong {
+    width: 60px;
+    height: 60px;
+  }
+
+  .napcor {
+    width: 60px;
+    height: 60px;
+  }
+
+  .poea {
+    margin-top: 10%;
+  }
+
+  .horizon {
+    margin-top: 15%;
+  }
+
+  .dole {
+    margin-top: 3%;
+    width: 60px;
+    height: 50px;
+  }
+  /* partners */
+  .idea {
+    margin-top: 10%;
+  }
+
+  .intel {
+    margin-top: 15%;
+  }
+
+  .hp {
+    margin-top: 15%;
+    width: 60px;
+    height: 60px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  /*logos*/
+  .smart {
+    margin-top: 1%;
+  }
+
+  .pldt {
+    margin-top: 1%;
+  }
+
+  .singaporeair {
+    margin-top: -5%;
+  }
+
+  .feu {
+    margin-top: -3%;
+  }
+
+  .cathay {
+    margin-top: -3%;
+  }
+
+  .rustans {
+  }
+
+  .bpi {
+  }
+
+  .metrobank {
+  }
+
+  .eastwest {
+    margin-top: -3%;
+  }
+
+  .jazz {
+    width: 120px;
+    height: 80px;
+  }
+
+  .green {
+    width: 120px;
+    height: 80px;
+  }
+
+  .shore {
+    width: 120px;
+    height: 80px;
+  }
+
+  .makati {
+    width: 100px;
+    height: 100px;
+  }
+
+  .mandaluyong {
+    width: 100px;
+    height: 100px;
+  }
+
+  .napcor {
+    width: 100px;
+    height: 100px;
+  }
+
+  .horizon {
+    margin-top: 5%;
+  }
+
+  .dole {
+    margin-top: 3%;
+    width: 100px;
+    height: 80px;
+  }
+
+  /* partners */
+  .idea {
+    margin-top: 10%;
+  }
+
+  .intel {
+    margin-top: 15%;
+  }
+
+  .hp {
+    margin-top: 20%;
+    width: 75px;
+    height: 75px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /*logos*/
+  .smart {
+    margin-top: 1%;
+  }
+
+  .pldt {
+    margin-top: 1%;
+  }
+
+  .singaporeair {
+    margin-top: -5%;
+  }
+
+  .feu {
+    margin-top: -3%;
+  }
+
+  .cathay {
+    margin-top: -3%;
+  }
+
+  .rustans {
+  }
+
+  .bpi {
+  }
+
+  .metrobank {
+  }
+
+  .eastwest {
+    margin-top: -3%;
+  }
+
+  .jazz {
+    width: 120px;
+    height: 80px;
+  }
+
+  .green {
+    width: 120px;
+    height: 80px;
+  }
+
+  .shore {
+    width: 120px;
+    height: 80px;
+  }
+
+  .makati {
+    width: 100px;
+    height: 100px;
+  }
+
+  .mandaluyong {
+    width: 100px;
+    height: 100px;
+  }
+
+  .napcor {
+    width: 100px;
+    height: 100px;
+  }
+
+  .horizon {
+    margin-top: 5%;
+  }
+
+  .dole {
+    margin-top: 3%;
+    width: 100px;
+    height: 80px;
+  }
+  /* partners */
+  .idea {
+    margin-top: 10%;
+  }
+
+  .intel {
+    margin-top: 15%;
+  }
+
+  .hp {
+    margin-top: 20%;
+    width: 100px;
+    height: 100px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  /*logos*/
+  .smart {
+    margin-top: 1%;
+  }
+
+  .pldt {
+    margin-top: 1%;
+  }
+
+  .singaporeair {
+    margin-top: -5%;
+  }
+
+  .feu {
+    margin-top: -3%;
+  }
+
+  .cathay {
+    margin-top: -3%;
+  }
+
+  .rustans {
+  }
+
+  .bpi {
+  }
+
+  .metrobank {
+  }
+
+  .eastwest {
+    margin-top: -3%;
+  }
+
+  .jazz {
+    margin-top: 10%;
+    width: 60px;
+    height: 30px;
+  }
+
+  .green {
+    margin-top: 10%;
+    width: 60px;
+    height: 30px;
+  }
+
+  .shore {
+    margin-top: 10%;
+    width: 60px;
+    height: 30px;
+  }
+
+  .makati {
+    width: 45px;
+    height: 45px;
+  }
+
+  .mandaluyong {
+    width: 45px;
+    height: 45px;
+  }
+
+  .napcor {
+    width: 45px;
+    height: 45px;
+  }
+
+  .horizon {
+    margin-top: 5%;
+  }
+
+  .dole {
+    width: 40px;
+    height: 30px;
+  }
+
+  /* partners */
+  .softypep {
+    margin-top: 35%;
+  }
+
+  .microsoft {
+    margin-top: 35%;
+  }
+
+  .idea {
+    margin-top: 45%;
+  }
+
+  .intel {
+    margin-top: 15%;
+  }
+
+  .hp {
+    margin-top: 15%;
+    width: 45px;
+    height: 45px;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+  /*logos*/
+  .smart {
+    margin-top: 3%;
+  }
+
+  .pldt {
+    margin-top: 3%;
+  }
+
+  .singaporeair {
+    margin-top: -3%;
+  }
+
+  .feu {
+    margin-top: -2%;
+  }
+
+  .cathay {
+    margin-top: 10%;
+  }
+
+  .rustans {
+    margin-top: 5%;
+  }
+
+  .bpi {
+    margin-top: 5%;
+  }
+
+  .metrobank {
+    margin-top: 5%;
+  }
+
+  .eastwest {
+    margin-top: 3%;
+  }
+
+  .jazz {
+    margin-top: 10%;
+    width: 95px;
+    height: 45px;
+  }
+
+  .green {
+    margin-top: 10%;
+    width: 95px;
+    height: 45px;
+  }
+
+  .shore {
+    margin-top: 10%;
+    width: 95px;
+    height: 45px;
+  }
+
+  .makati {
+    width: 65px;
+    height: 65px;
+  }
+
+  .mandaluyong {
+    width: 65px;
+    height: 65px;
+  }
+
+  .napcor {
+    width: 65px;
+    height: 65px;
+  }
+
+  .horizon {
+    margin-top: 5%;
+  }
+
+  .dole {
+    width: 55px;
+    height: 45px;
+  }
+
+  /* partners */
+  .softypep {
+    margin-top: 35%;
+  }
+
+  .microsoft {
+    margin-top: 35%;
+  }
+
+  .idea {
+    margin-top: 45%;
+  }
+
+  .intel {
+    margin-top: 15%;
+  }
+
+  .hp {
+    margin-top: 15%;
+    width: 65px;
+    height: 65px;
+  }
+}
+@media (min-width: 1400px) and (max-width: 1660px) {
+  /*logos*/
+  .smart {
+    margin-top: 3%;
+  }
+
+  .pldt {
+    margin-top: 3%;
+  }
+
+  .singaporeair {
+    margin-top: -3%;
+  }
+
+  .feu {
+    margin-top: -2%;
+  }
+
+  .cathay {
+    margin-top: 10%;
+  }
+
+  .rustans {
+    margin-top: 5%;
+  }
+
+  .bpi {
+    margin-top: 5%;
+  }
+
+  .metrobank {
+    margin-top: 5%;
+  }
+
+  .eastwest {
+    margin-top: 3%;
+  }
+
+  .jazz {
+    margin-top: 10%;
+    width: 95px;
+    height: 45px;
+  }
+
+  .green {
+    margin-top: 10%;
+    width: 95px;
+    height: 45px;
+  }
+
+  .shore {
+    margin-top: 10%;
+    width: 95px;
+    height: 45px;
+  }
+
+  .makati {
+    width: 65px;
+    height: 65px;
+  }
+
+  .mandaluyong {
+    width: 65px;
+    height: 65px;
+  }
+
+  .napcor {
+    width: 65px;
+    height: 65px;
+  }
+
+  .horizon {
+    margin-top: 5%;
+  }
+
+  .dole {
+    width: 55px;
+    height: 45px;
+  }
+
+  /* partners */
+  .softypep {
+    margin-top: 35%;
+  }
+
+  .microsoft {
+    margin-top: 35%;
+  }
+
+  .idea {
+    margin-top: 45%;
+  }
+
+  .intel {
+    margin-top: 15%;
+  }
+
+  .hp {
+    margin-top: 15%;
+    width: 65px;
+    height: 65px;
+  }
+}
+
+/*adjust later*/
+@media (min-width: 1661px) and (max-width: 1800px) {
+  /*logos*/
+  .smart {
+    margin-top: 3%;
+  }
+
+  .pldt {
+    margin-top: 3%;
+  }
+
+  .singaporeair {
+    margin-top: -3%;
+  }
+
+  .feu {
+    margin-top: -2%;
+  }
+
+  .cathay {
+    margin-top: 10%;
+  }
+
+  .rustans {
+    margin-top: 5%;
+  }
+
+  .bpi {
+    margin-top: 5%;
+  }
+
+  .metrobank {
+    margin-top: 5%;
+  }
+
+  .eastwest {
+    margin-top: 3%;
+  }
+
+  .jazz {
+    width: 120px;
+    height: 70px;
+  }
+
+  .green {
+    width: 120px;
+    height: 70px;
+  }
+
+  .shore {
+    width: 120px;
+    height: 70px;
+  }
+
+  .makati {
+    width: 80px;
+    height: 80px;
+  }
+
+  .mandaluyong {
+    width: 80px;
+    height: 80px;
+  }
+
+  .napcor {
+    width: 80px;
+    height: 80px;
+  }
+
+  .horizon {
+    margin-top: 5%;
+  }
+
+  .dole {
+    width: 70px;
+    height: 60px;
+  }
+
+  /* partners */
+  .softypep {
+    margin-top: 35%;
+  }
+
+  .microsoft {
+    margin-top: 35%;
+  }
+
+  .idea {
+    margin-top: 45%;
+  }
+
+  .intel {
+    margin-top: 15%;
+  }
+
+  .hp {
+    margin-top: 15%;
+    width: 80px;
+    height: 80px;
+  }
+}
+
+@media (min-width: 1801px) and (max-width: 1920px) {
+  /*logos*/
+  .smart {
+    margin-top: 3%;
+  }
+
+  .pldt {
+    margin-top: 3%;
+  }
+
+  .singaporeair {
+    margin-top: -3%;
+  }
+
+  .feu {
+    margin-top: -2%;
+  }
+
+  .cathay {
+    margin-top: 10%;
+  }
+
+  .rustans {
+    margin-top: 5%;
+  }
+
+  .bpi {
+    margin-top: 5%;
+  }
+
+  .metrobank {
+    margin-top: 5%;
+  }
+
+  .eastwest {
+    margin-top: 3%;
+  }
+
+  .jazz {
+    width: 120px;
+    height: 70px;
+  }
+
+  .green {
+    width: 120px;
+    height: 70px;
+  }
+
+  .shore {
+    width: 120px;
+    height: 70px;
+  }
+
+  .makati {
+    width: 80px;
+    height: 80px;
+  }
+
+  .mandaluyong {
+    width: 80px;
+    height: 80px;
+  }
+
+  .napcor {
+    width: 80px;
+    height: 80px;
+  }
+
+  .horizon {
+    margin-top: 5%;
+  }
+
+  .dole {
+    width: 70px;
+    height: 60px;
+  }
+  /* partners */
+  .softypep {
+    margin-top: 35%;
+  }
+
+  .microsoft {
+    margin-top: 35%;
+  }
+
+  .idea {
+    margin-top: 45%;
+  }
+
+  .intel {
+    margin-top: 15%;
+  }
+
+  .hp {
+    margin-top: 15%;
+    width: 80px;
+    height: 80px;
+  }
+}
+
+@media (min-width: 1921px) {
+  /*logos*/
+  .smart {
+    margin-top: 3%;
+  }
+
+  .pldt {
+    margin-top: 3%;
+  }
+
+  .singaporeair {
+    margin-top: -3%;
+  }
+
+  .feu {
+    margin-top: -2%;
+  }
+
+  .cathay {
+    margin-top: 10%;
+  }
+
+  .rustans {
+    margin-top: 5%;
+  }
+
+  .bpi {
+    margin-top: 5%;
+  }
+
+  .metrobank {
+    margin-top: 5%;
+  }
+
+  .eastwest {
+    margin-top: 3%;
+  }
+
+  .jazz {
+    width: 120px;
+    height: 70px;
+  }
+
+  .green {
+    width: 120px;
+    height: 70px;
+  }
+
+  .shore {
+    width: 120px;
+    height: 70px;
+  }
+
+  .makati {
+    width: 80px;
+    height: 80px;
+  }
+
+  .mandaluyong {
+    width: 80px;
+    height: 80px;
+  }
+
+  .napcor {
+    width: 80px;
+    height: 80px;
+  }
+
+  .horizon {
+    margin-top: 5%;
+  }
+
+  .dole {
+    width: 70px;
+    height: 60px;
+  }
+  /* partners */
+  .softypep {
+    margin-top: 35%;
+  }
+
+  .microsoft {
+    margin-top: 35%;
+  }
+
+  .idea {
+    margin-top: 45%;
+  }
+
+  .intel {
+    margin-top: 15%;
+  }
+
+  .hp {
+    margin-top: 15%;
+    width: 80px;
+    height: 80px;
+  }
+}
